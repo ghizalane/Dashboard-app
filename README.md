@@ -1,9 +1,8 @@
-# Salvia-kit Dashboard v3 Angular
+# Dashboard  Angular
 
-![Salvia-kit Dashboard v3](https://www.salvia-kit.com/images/dashboards/dashv3.png)
 
-## 📋 Documentation
-You can see the documentation on [http://localhost:3000/admin/documentation](http://localhost:3000/admin/documentation)
+
+
 
 ## Browser Support
 
